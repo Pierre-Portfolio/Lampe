@@ -16,11 +16,11 @@
 - Java
 - Android Studio
 
-##UML
+## UML
 <img src="./Assets/UML.png" alt="Lampe" />
 
 ## UI
-<img src="./Assets/UI.png" alt="Lampe" />
+<img src="./Assets/interface.png" alt="Lampe" />
 
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
