@@ -20,7 +20,7 @@
 <img src="./Assets/UML.png" alt="Lampe" />
 
 ## UI
-<img src="./Assets/interface.png" alt="Lampe" />
+<img src="./Assets/UI.png" alt="Lampe" />
 
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
