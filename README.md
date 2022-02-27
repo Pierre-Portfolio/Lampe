@@ -7,10 +7,10 @@
 # LAMPE CONNECTEE
 
 ## Petit résumé
-  - Au fil des décennies, les techniques d'éclairages ont faient des progrès considérables: verre dépoli, utilisation de gaz inertes, fibre en tungstène. L'efficacité lumineuse à été augmentée et la durée de vie prolongé. L'heure est maintenant à l'ampoule connectée controlable par smartphone.
+  - Au fil des décennies, les techniques d'éclairages ont faient des progrès considérables: verre dépoli, utilisation de gaz inertes, fibre en tungstène, néon, led. L'efficacité lumineuse à été augmentée et la durée de vie prolongée. Il est désormais possible de contrôler son ampoule par smartphone.
 
-## Objectifs
-- Créer une application mobile pour controler une ampoule connectée.
+## Objectif
+- Créer une application mobile pour contrôler une ampoule connectée.
 
 ## Techno
 - Java
