@@ -7,7 +7,7 @@
 # LAMPE CONNECTEE
 
 ## Petit résumé
-- Au fil des décennies, l'ampoule à incandescence fait des progrès : verre dépoli, utilisation de gaz inertes, fibre en tungstène. Elle a accru ainsi son efficacité lumineuse et prolongé sa durée de vie. L'heure est maintenant à l'ampoule connectée controlable par smartphone.
+  - Au fil des décennies, les techniques d'éclairages ont faient des progrès considérables: verre dépoli, utilisation de gaz inertes, fibre en tungstène. L'efficacité lumineuse à été augmentée et la durée de vie prolongé. L'heure est maintenant à l'ampoule connectée controlable par smartphone.
 
 ## Objectifs
 - Créer une application mobile pour controler une ampoule connectée.
